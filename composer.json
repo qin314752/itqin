@@ -1,10 +1,13 @@
 {
     "name": "itqin/swoft",
+    "description": "swoft init",
+    "type": "project",
     "authors": [
         {
             "name": "码农秦",
             "email": "qin314752@163.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
