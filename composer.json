@@ -9,13 +9,13 @@
             "email": "qin314752@163.com"
         }
     ],
-  "require": {
-    "php": ">=7.0.0"
-  },
-  "autoload": {
-    "psr-4": {
-      "hello\\": "src/"
+    "require": {
+        "php": ">=7.0.0"
     },
-    "minimum-stability": "stable",
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "hello\\": "src/"
+        },
+        "minimum-stability": "stable"
+    }
 }
