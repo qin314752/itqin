@@ -1,0 +1,21 @@
+{
+    "name": "itqin/swoft",
+    "type": "project",
+    "license":"MIT",
+
+    "authors": [
+        {
+            "name": "码农秦",
+            "email": "qin314752@163.com"
+        }
+    ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "hello\\": "src/"
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
