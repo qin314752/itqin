@@ -1,8 +1,8 @@
 {
     "name": "itqin/swoft",
+    "description": "swoft-init",
     "type": "project",
-    "license":"MIT",
-
+    "license": "MIT",
     "authors": [
         {
             "name": "码农秦",
@@ -10,12 +10,8 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0"
+        "php": "^7.1.3"
     },
-    "autoload": {
-        "psr-4": {
-            "hello\\": "src/"
-        },
-        "minimum-stability": "stable"
-    }
+
+    "minimum-stability": "stable"
 }
